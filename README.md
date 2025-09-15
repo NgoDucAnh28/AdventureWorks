@@ -1,16 +1,12 @@
 # AdventureWorks
-Sử dụng Power BI để mô tả hiệu suất kinh doanh và phân tích phân khúc khách hàng.  
-AdventureWorks là cơ sở dữ liệu được Microsoft phát triển để cung cấp một nền tảng dữ liệu thực tế về một công ty bán xe đạp, phụ tùng và phụ kiện.  
+Use Power BI to describe business performance and analyze customer segment.  
+Adventurworks is a database developed by Microsoft to provide a practical data platform for a company that sells bicycles, spare parts and accessories.
 
-Trang tổng quan hiệu suất kinh doanh:
-<img width="1303" height="735" alt="image" src="https://github.com/user-attachments/assets/881887f0-bafd-4e7a-8b26-c1b12d5b2e72" />  
+Business performance overview page:
+<img width="1296" height="725" alt="image" src="https://github.com/user-attachments/assets/7d99a406-7c55-438b-8691-a3da01455f04" />
 
-Bảng chi tiết:
-<img width="1303" height="733" alt="image" src="https://github.com/user-attachments/assets/ee84171d-e11b-4d06-8347-e7d318b38e6e" />  
+Detailed table:
+<img width="1302" height="734" alt="image" src="https://github.com/user-attachments/assets/22426242-4405-4e83-848c-cc046bf64ebb" />
 
-Phân tích phân khúc khách hàng:
-<img width="1223" height="601" alt="image" src="https://github.com/user-attachments/assets/725ca15d-1e30-462d-b6ef-4a466a97ecfc" />
-
-
-
-
+Customer segment analysis:
+<img width="1296" height="728" alt="image" src="https://github.com/user-attachments/assets/b3630704-7716-4afc-943c-168afc668b62" />
