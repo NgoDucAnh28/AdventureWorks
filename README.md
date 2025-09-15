@@ -1,5 +1,5 @@
 # Adventure_Works
-Sử dụng Power BI để mô tả hiệu suất kinh doanh và phân tích phân khúc khách hàng
+Sử dụng Power BI để mô tả hiệu suất kinh doanh và phân tích phân khúc khách hàng.  
 AdventureWorks là cơ sở dữ liệu được Microsoft phát triển để cung cấp một nền tảng dữ liệu thực tế về một công ty bán xe đạp, phụ tùng và phụ kiện.  
 
 Trang tổng quan hiệu suất kinh doanh:
